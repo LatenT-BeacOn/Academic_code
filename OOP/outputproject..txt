@@ -1,0 +1,11 @@
+enter choice:
+1.sum
+2.sub
+3.multiplicatio
+4.divide
+
+enter first & sceound number:
+a=3
+b=4
+a+b=7
+Do you want to calculate again?
